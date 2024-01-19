@@ -2,7 +2,7 @@
 title: 'Getting Started with Web Development'
 excerpt: 'A beginner-friendly guide to kickstart your journey in web development.'
 tags: ['web-development', 'programming', 'coding']
-date: '2024-01-03'
+date: '2024-01-15'
 ---
 
 # Getting Started with Web Development
@@ -96,5 +96,8 @@ Engage with the web development community on forums like Stack Overflow and soci
 
 ## Conclusion
 Congratulations on taking the first steps into the world of web development! Remember, it's okay to encounter challenges along the way. Stay curious, keep practicing, and enjoy the journey of continuous learning.
+
+
+****
 
 Happy coding!
